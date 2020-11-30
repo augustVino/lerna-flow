@@ -28,5 +28,8 @@
   },
   "devDependencies": {
     "axios": "^0.21.0"
+  },
+  "dependencies": {
+    "vue": "^2.6.12"
   }
 }
