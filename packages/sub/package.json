@@ -31,5 +31,6 @@
   },
   "dependencies": {
     "vue": "^2.6.12"
-  }
+  },
+  "gitHead": "ee301f55b6b0ca3281146f45dc6b8eea3ba1aceb"
 }
