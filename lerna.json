@@ -1,13 +1,21 @@
 {
-  "packages": ["packages/*", "packages/sub/*"],
-  "version": "0.0.0",
+  "packages": [
+    "packages/*",
+    "packages/sub/*"
+  ],
+  "version": "1.0.0",
   "npmClient": "yarn",
   "publish": {
-    "ignoreChanges": ["ignored-file", "*.md"],
+    "ignoreChanges": [
+      "ignored-file",
+      "*.md"
+    ],
     "message": "chore(release): publish"
   },
   "bootstrap": {
-    "npmClientArgs": ["--no-lockfile"]
+    "npmClientArgs": [
+      "--no-lockfile"
+    ]
   },
   "command": {
     "init": {

@@ -1,6 +1,6 @@
 {
   "name": "package2",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "张扬 <zhangyang1@liepin.com>",
   "homepage": "https://github.com/augustVino/lerna-flow#readme",
@@ -32,6 +32,6 @@
     "webpack": "^5.9.0"
   },
   "dependencies": {
-    "package1": "^0.0.0"
+    "package1": "^1.0.0"
   }
 }
