@@ -3,5 +3,6 @@
 module.exports = work;
 
 function work() {
-    // TODO
+  // TODO
 }
+console.log('work');

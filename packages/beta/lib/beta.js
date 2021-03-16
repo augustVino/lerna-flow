@@ -3,5 +3,6 @@
 module.exports = beta;
 
 function beta() {
-    // TODO
+  // TODO
 }
+console.log('beta');

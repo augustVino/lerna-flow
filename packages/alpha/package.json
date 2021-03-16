@@ -28,5 +28,6 @@
   },
   "dependencies": {
     "vue": "^2.6.12"
-  }
+  },
+  "gitHead": "d0d7300e9ee5e74e0f0c178d68475de2a3cd7df7"
 }

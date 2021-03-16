@@ -3,5 +3,6 @@
 module.exports = alpha;
 
 function alpha() {
-    // TODO
+  // TODO
 }
+console.log('alpha');
