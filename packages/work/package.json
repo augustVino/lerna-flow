@@ -32,5 +32,5 @@
     "@liepin/test-package": "^1.1.0",
     "webpack": "^5.26.0"
   },
-  "gitHead": "554f1ad09834c80e0155990f5018489d2c8bb4fc"
+  "gitHead": "d205211f077c9447d01e560b75e66cf6192ba6c0"
 }
