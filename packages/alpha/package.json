@@ -25,5 +25,8 @@
   },
   "bugs": {
     "url": "https://github.com/augustVino/lerna-flow/issues"
+  },
+  "dependencies": {
+    "vue": "^2.6.12"
   }
 }

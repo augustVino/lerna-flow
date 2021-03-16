@@ -25,5 +25,8 @@
   },
   "bugs": {
     "url": "https://github.com/augustVino/lerna-flow/issues"
+  },
+  "dependencies": {
+    "react": "^17.0.1"
   }
 }

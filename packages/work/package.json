@@ -25,5 +25,10 @@
   },
   "bugs": {
     "url": "https://github.com/augustVino/lerna-flow/issues"
+  },
+  "dependencies": {
+    "@lernaflow/alpha": "^1.0.1-alpha.1",
+    "@lernaflow/beta": "^1.0.1-alpha.1",
+    "webpack": "^5.26.0"
   }
 }
