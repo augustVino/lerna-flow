@@ -5,4 +5,4 @@ module.exports = work;
 function work() {
   // TODO
 }
-console.log('work2');
+console.log('main --work');

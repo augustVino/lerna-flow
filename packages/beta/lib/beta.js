@@ -5,4 +5,4 @@ module.exports = beta;
 function beta() {
   // TODO
 }
-console.log('beta');
+console.log('main --beta');

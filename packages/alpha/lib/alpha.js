@@ -5,4 +5,4 @@ module.exports = alpha;
 function alpha() {
   // TODO
 }
-console.log('alpha2');
+console.log('main --alpha');
