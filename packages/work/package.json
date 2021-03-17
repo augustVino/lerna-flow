@@ -1,6 +1,6 @@
 {
   "name": "@lernaflow/work",
-  "version": "1.0.3-alpha.0",
+  "version": "5.0.0-alpha.0",
   "description": "> TODO: description",
   "author": "Vino <Vino@163.com>",
   "homepage": "https://github.com/augustVino/lerna-flow#readme",
@@ -27,8 +27,8 @@
     "url": "https://github.com/augustVino/lerna-flow/issues"
   },
   "dependencies": {
-    "@lernaflow/alpha": "^1.1.0-alpha.0",
-    "@lernaflow/beta": "^2.0.0-alpha.0",
+    "@lernaflow/alpha": "^5.0.0",
+    "@lernaflow/beta": "^5.0.0",
     "@liepin/test-package": "^1.1.0",
     "webpack": "^5.26.0"
   },
